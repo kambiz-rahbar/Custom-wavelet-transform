@@ -1,4 +1,8 @@
 function h = mywav(wname)
+% more info
+% https://www.mathworks.com/help/wavelet/gs/new-wavelet-for-cwt.html
+% https://www.mathworks.com/matlabcentral/answers/77500-i-am-trying-to-build-my-new-wavelet-i-used-wavemngr-but-an-error-occured-while-doing-decomposition
+
 % h = [-0.0106
 %     0.0329
 %     0.0308
